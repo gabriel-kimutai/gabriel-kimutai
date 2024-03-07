@@ -9,7 +9,7 @@ Currently taking interest in Android app development.
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [gabrielkimutai86@gmail.com](mailto:gabrielkimutai86@gmail.com)
 * 🧠  I'm learning Kotlin with Jetpack compose, kotlin multiplatform
-* ⚡  86
+* ⚡  Blockchain developer (Ethereum and EVM), web3.0 enthusiast
 
 ### Skills
 
