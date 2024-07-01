@@ -1,4 +1,4 @@
-Hi 👋 My name is Gabriel Kimutai
+Hi 👋
 ================================
 
 Web developer and android enthusiast.
